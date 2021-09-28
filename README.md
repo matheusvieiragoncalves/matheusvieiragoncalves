@@ -31,7 +31,6 @@ Sou um desenvolvedor front-end. Trabalho com a construção de telas para aplica
 <br/>
 
 ### Informações para contato:
-* Telefone: (62) 99254-4418
 * E-mail: matheusvieira1900@hotmail.com
   
 
