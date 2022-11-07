@@ -6,7 +6,7 @@ Sou um desenvolvedor front-end. Trabalho com a construção de telas para aplica
 ### Redes sociais:
 <div>
   <a href="https://www.linkedin.com/in/matheusvieiragonçalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/matheusvieira.xd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/matheus_v.xd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ### Minhas Atividades:
